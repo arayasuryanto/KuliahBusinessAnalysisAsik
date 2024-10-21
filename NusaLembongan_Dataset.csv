@@ -1,0 +1,75 @@
+Activity ,Category ,Monthly Visitors ,Rating (1-5) ,Estimated Monthly Revenue ($) ,Peak Season ,Eco-Friendliness (1-5) ,Difficulty (1-5) ,Duration (hours) ,Local Employment Impact (1-5) 
+----------,----------,------------------,--------------,-------------------------------,-------------,------------------------,------------------,-------------------,--------------------------------
+Snorkeling at Manta Point ,Water Activities ,3000 ,4.8 ,"150,000 ",Jun-Aug ,4 ,2 ,3 ,4 
+Surfing at Playgrounds ,Water Activities ,1500 ,4.5 ,"75,000 ",Jul-Sep ,5 ,4 ,4 ,3 
+Dream Beach Relaxation ,Beach & Relaxation ,5000 ,4.3 ,"100,000 ",Jun-Aug ,5 ,1 ,6 ,4 
+Cliff Jumping at Devil's Tears ,Adventure Activities ,2000 ,4.6 ,"40,000 ",Jul-Aug ,4 ,5 ,2 ,2 
+Yoga Classes ,Wellness Activities ,500 ,4.2 ,"25,000 ",Year-round ,5 ,2 ,1.5 ,3 
+Scuba Diving at Crystal Bay ,Water Activities ,2500 ,4.7 ,"200,000 ",May-Sep ,4 ,3 ,4 ,5 
+Stand-Up Paddleboarding ,Water Activities ,800 ,4.0 ,"32,000 ",Jun-Aug ,5 ,2 ,2 ,3 
+Jet Skiing ,Water Activities ,600 ,3.8 ,"45,000 ",Jul-Aug ,2 ,3 ,1 ,2 
+Banana Boat Rides ,Water Activities ,1000 ,3.5 ,"30,000 ",Jun-Aug ,3 ,1 ,0.5 ,2 
+Fishing Charters ,Water Activities ,300 ,4.1 ,"60,000 ",Year-round ,3 ,2 ,6 ,4 
+Mushroom Bay Beach Day ,Beach & Relaxation ,4000 ,4.2 ,"80,000 ",Jun-Aug ,5 ,1 ,6 ,4 
+Sandy Bay Sunset Watching ,Beach & Relaxation ,3000 ,4.5 ,"30,000 ",Year-round ,5 ,1 ,2 ,2 
+Secret Beach Exploration ,Beach & Relaxation ,1000 ,4.4 ,"20,000 ",Jun-Aug ,4 ,2 ,4 ,2 
+ATV Tours ,Adventure Activities ,500 ,4.3 ,"37,500 ",Jul-Aug ,2 ,3 ,3 ,3 
+Goa Gala-Gala Cave Exploration ,Adventure Activities ,700 ,3.9 ,"14,000 ",Year-round ,4 ,2 ,1.5 ,3 
+Seaweed Farming Tours ,Cultural Experiences ,200 ,4.0 ,"6,000 ",Year-round ,5 ,1 ,2 ,5 
+Balinese Cooking Classes ,Cultural Experiences ,300 ,4.6 ,"22,500 ",Year-round ,4 ,2 ,3 ,5 
+Panorama Point Hike ,Scenic Views ,1500 ,4.4 ,"15,000 ",Jun-Aug ,5 ,3 ,2 ,2 
+Teletubbies Hill Visit ,Scenic Views ,1000 ,4.1 ,"10,000 ",Jun-Aug ,5 ,2 ,1.5 ,2 
+Yellow Bridge Walk ,Scenic Views ,6000 ,3.8 ,"12,000 ",Year-round ,5 ,1 ,0.5 ,2 
+Spa Treatments ,Wellness Activities ,1000 ,4.5 ,"100,000 ",Year-round ,4 ,1 ,2 ,5 
+Nusa Ceningan Day Trip ,Unique Attractions ,2000 ,4.3 ,"60,000 ",Jun-Aug ,4 ,2 ,8 ,4 
+Gala Gala Underground House Tour ,Unique Attractions ,400 ,3.7 ,"8,000 ",Year-round ,5 ,1 ,1 ,3 
+Beachfront Bar Hopping ,Nightlife & Entertainment ,1500 ,4.2 ,"75,000 ",Jun-Aug ,3 ,1 ,4 ,4 
+Lago Pontoon Party ,Nightlife & Entertainment ,300 ,4.0 ,"30,000 ",Jul-Aug ,2 ,1 ,5 ,3 
+Glass-Bottom Boat Tours ,Family-Friendly ,1200 ,3.9 ,"36,000 ",Jun-Aug ,3 ,1 ,2 ,3 
+Mangrove Forest Tour ,Eco-Tourism ,600 ,4.2 ,"18,000 ",Year-round ,5 ,1 ,3 ,4 
+Blue Lagoon Snorkeling ,Water Activities ,2000 ,4.6 ,"100,000 ",Jun-Aug ,4 ,2 ,3 ,4 
+Jungut Batu Beach Walk ,Beach & Relaxation ,3500 ,4.0 ,"35,000 ",Year-round ,5 ,1 ,2 ,3 
+Sunset Dinner Cruises ,Nightlife & Entertainment ,400 ,4.4 ,"40,000 ",Jun-Aug ,3 ,1 ,3 ,4 
+Local Market Shopping ,Cultural Experiences ,1000 ,3.8 ,"30,000 ",Year-round ,4 ,1 ,2 ,5 
+Island Cycling Tours ,Adventure Activities ,300 ,4.1 ,"15,000 ",May-Sep ,5 ,3 ,4 ,3 
+Traditional Dance Performances ,Cultural Experiences ,500 ,4.3 ,"15,000 ",Year-round ,5 ,1 ,2 ,5 
+Shipwreck Diving ,Water Activities ,400 ,4.7 ,"40,000 ",May-Sep ,4 ,4 ,4 ,4 
+Kayaking ,Water Activities ,700 ,4.2 ,"28,000 ",Jun-Aug ,5 ,2 ,2 ,3 
+Parasailing ,Water Activities ,300 ,4.0 ,"22,500 ",Jul-Aug ,3 ,2 ,0.5 ,2 
+Beach Volleyball ,Beach & Relaxation ,200 ,3.7 ,"2,000 ",Jun-Aug ,5 ,2 ,2 ,2 
+Sunset Photography Tours ,Scenic Views ,250 ,4.5 ,"12,500 ",Year-round ,5 ,2 ,3 ,3 
+Night Snorkeling ,Water Activities ,200 ,4.6 ,"20,000 ",Jun-Aug ,3 ,3 ,2 ,4 
+Local Textile Weaving Workshops ,Cultural Experiences ,150 ,4.2 ,"7,500 ",Year-round ,5 ,2 ,3 ,5 
+Beachside Yoga ,Wellness Activities ,400 ,4.4 ,"20,000 ",Year-round ,5 ,2 ,1.5 ,3 
+Waterfall Trekking ,Adventure Activities ,300 ,4.3 ,"15,000 ",May-Sep ,4 ,3 ,4 ,3 
+Surfing Lessons ,Water Activities ,600 ,4.5 ,"45,000 ",Jun-Aug ,5 ,3 ,2 ,4 
+Beach Clean-up Volunteering ,Eco-Tourism ,100 ,4.8 ,"1,000 ",Year-round ,5 ,1 ,3 ,3 
+Local Brewery Tours ,Nightlife & Entertainment ,200 ,4.1 ,"10,000 ",Year-round ,4 ,1 ,2 ,3 
+Sunrise Hikes ,Adventure Activities ,400 ,4.6 ,"16,000 ",Jun-Aug ,5 ,3 ,3 ,3 
+Paddleboard Yoga ,Wellness Activities ,150 ,4.3 ,"11,250 ",Jun-Aug ,5 ,3 ,1.5 ,3 
+Underwater Photography Tours ,Water Activities ,100 ,4.7 ,"15,000 ",May-Sep ,4 ,3 ,3 ,4 
+Local Fruit Tasting Tours ,Cultural Experiences ,250 ,4.0 ,"7,500 ",Year-round ,5 ,1 ,2 ,4 
+Bioluminescent Plankton Night Tours ,Unique Attractions ,300 ,4.8 ,"30,000 ",Jun-Aug ,4 ,2 ,2 ,3 
+Traditional Fishing Trips ,Cultural Experiences ,150 ,4.2 ,"11,250 ",Year-round ,4 ,2 ,4 ,5 
+Beachfront Movie Nights ,Nightlife & Entertainment ,400 ,3.9 ,"8,000 ",Jun-Aug ,4 ,1 ,3 ,2 
+Sandcastle Building Contests ,Family-Friendly ,200 ,3.8 ,"2,000 ",Jun-Aug ,5 ,1 ,2 ,2 
+Local Art Gallery Tours ,Cultural Experiences ,300 ,4.0 ,"6,000 ",Year-round ,5 ,1 ,2 ,4 
+Full Moon Beach Parties ,Nightlife & Entertainment ,500 ,4.1 ,"25,000 ",Jun-Aug ,2 ,1 ,6 ,3 
+Snorkeling with Sea Turtles ,Water Activities ,800 ,4.9 ,"64,000 ",May-Sep ,4 ,2 ,3 ,4 
+Coral Reef Conservation Tours ,Eco-Tourism ,200 ,4.5 ,"10,000 ",Year-round ,5 ,2 ,3 ,4 
+Island Hopping Tours ,Adventure Activities ,600 ,4.4 ,"60,000 ",Jun-Aug ,3 ,2 ,8 ,4 
+Local Temple Visits ,Cultural Experiences ,700 ,4.2 ,"14,000 ",Year-round ,5 ,1 ,3 ,3 
+Beachfront Fitness Classes ,Wellness Activities ,300 ,4.1 ,"15,000 ",Year-round ,5 ,3 ,1 ,3 
+Sunset SUP Tours ,Water Activities ,250 ,4.5 ,"18,750 ",Jun-Aug ,5 ,2 ,2 ,3 
+Local Coffee Tasting Tours ,Cultural Experiences ,200 ,4.3 ,"8,000 ",Year-round ,5 ,1 ,2 ,4 
+Night Sky Stargazing Tours ,Unique Attractions ,150 ,4.6 ,"7,500 ",May-Sep ,5 ,1 ,2 ,2 
+Beach Horseback Riding ,Adventure Activities ,200 ,4.2 ,"20,000 ",Year-round ,3 ,2 ,2 ,3 
+Local Craft Workshops ,Cultural Experiences ,250 ,4.4 ,"12,500 ",Year-round ,5 ,2 ,3 ,5 
+Eco-friendly Hotel Tours ,Eco-Tourism ,100 ,4.0 ,"2,000 ",Year-round ,5 ,1 ,1.5 ,3 
+Beachfront Tai Chi Classes ,Wellness Activities ,150 ,4.2 ,"7,500 ",Year-round ,5 ,2 ,1 ,3 
+Underwater Scooter Tours ,Water Activities ,200 ,4.3 ,"30,000 ",Jun-Aug ,3 ,2 ,2 ,3 
+Local Music Jam Sessions ,Nightlife & Entertainment ,300 ,4.1 ,"9,000 ",Year-round ,5 ,1 ,3 ,4 
+Beach Olympics ,Family-Friendly ,250 ,3.9 ,"5,000 ",Jun-Aug ,5 ,2 ,4 ,3 
+Eco-friendly Soap Making Workshops ,Cultural Experiences ,100 ,4.2 ,"5,000 ",Year-round ,5 ,1 ,2 ,3 
+Seaplane Tours ,Scenic Views ,50 ,4.8 ,"25,000 ",Jun-Aug ,2 ,1 ,1 ,2 
+Beachfront Meditation Sessions ,Wellness Activities ,200 ,4.3 ,"10,000 ",Year-round ,5 ,1 ,1 ,3 
